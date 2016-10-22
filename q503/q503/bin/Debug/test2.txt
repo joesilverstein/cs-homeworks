@@ -1,0 +1,5 @@
+This text file is a little harderr.
+It has some capital letters and some punktuation marks.
+You may assume all punktuation is at the end of the sentence!
+But still it is not eazy.
+Can you help Archesonus find all the errors?

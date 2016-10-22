@@ -1,0 +1,12 @@
+C:\Users\Joe\Documents\Visual Studio 2005\Projects\q523\q523\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Joe\Documents\Visual Studio 2005\Projects\q523\q523\obj\Debug\q523.Form1.resources
+C:\Users\Joe\Documents\Visual Studio 2005\Projects\q523\q523\obj\Debug\q523.Properties.Resources.resources
+C:\Users\Joe\Documents\Visual Studio 2005\Projects\q523\q523\obj\Debug\q523.csproj.GenerateResource.Cache
+C:\Users\Joe\Documents\Visual Studio 2005\Projects\q523\q523\bin\Debug\q523.exe
+C:\Users\Joe\Documents\Visual Studio 2005\Projects\q523\q523\bin\Debug\q523.pdb
+C:\Users\Joe\Documents\Visual Studio 2005\Projects\q523\q523\obj\Debug\q523.exe
+C:\Users\Joe\Documents\Visual Studio 2005\Projects\q523\q523\obj\Debug\q523.pdb
+C:\Users\Joe\Documents\Visual Studio 2005\Projects\q523\q523\bin\Debug\q523.exe.config
+E:\q523\q523\bin\Debug\q523.exe.config
+E:\q523\q523\obj\Debug\q523.exe
+E:\q523\q523\obj\Debug\q523.pdb

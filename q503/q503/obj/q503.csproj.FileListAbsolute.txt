@@ -1,0 +1,16 @@
+C:\Documents and Settings\jsilverstein\Desktop\q503\q503\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jsilverstein\Desktop\q503\q503\obj\Debug\q503.Form1.resources
+C:\Documents and Settings\jsilverstein\Desktop\q503\q503\obj\Debug\q503.Properties.Resources.resources
+C:\Documents and Settings\jsilverstein\Desktop\q503\q503\obj\Debug\q503.csproj.GenerateResource.Cache
+C:\Documents and Settings\jsilverstein\Desktop\q503\q503\bin\Debug\q503.exe
+C:\Documents and Settings\jsilverstein\Desktop\q503\q503\bin\Debug\q503.pdb
+C:\Documents and Settings\jsilverstein\Desktop\q503\q503\obj\Debug\q503.exe
+C:\Documents and Settings\jsilverstein\Desktop\q503\q503\obj\Debug\q503.pdb
+D:\q503\q503\obj\Debug\q503.exe
+D:\q503\q503\obj\Debug\q503.pdb
+D:\q503\q503\obj\Debug\ResolveAssemblyReference.cache
+D:\q503\q503\obj\Debug\q503.Form1.resources
+D:\q503\q503\obj\Debug\q503.Properties.Resources.resources
+D:\q503\q503\obj\Debug\q503.csproj.GenerateResource.Cache
+D:\q503\q503\bin\Debug\q503.exe
+D:\q503\q503\bin\Debug\q503.pdb

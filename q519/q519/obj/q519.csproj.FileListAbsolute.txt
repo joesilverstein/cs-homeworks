@@ -1,0 +1,16 @@
+C:\Users\Joe\Documents\Visual Studio 2005\Projects\q519\q519\bin\Debug\q519.exe
+C:\Users\Joe\Documents\Visual Studio 2005\Projects\q519\q519\bin\Debug\q519.pdb
+C:\Users\Joe\Documents\Visual Studio 2005\Projects\q519\q519\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Joe\Documents\Visual Studio 2005\Projects\q519\q519\obj\Debug\q519.Properties.Resources.resources
+C:\Users\Joe\Documents\Visual Studio 2005\Projects\q519\q519\obj\Debug\q519.q519.resources
+C:\Users\Joe\Documents\Visual Studio 2005\Projects\q519\q519\obj\Debug\q519.csproj.GenerateResource.Cache
+C:\Users\Joe\Documents\Visual Studio 2005\Projects\q519\q519\obj\Debug\q519.exe
+C:\Users\Joe\Documents\Visual Studio 2005\Projects\q519\q519\obj\Debug\q519.pdb
+C:\Documents and Settings\jsilverstein\Desktop\q519\q519\obj\Debug\q519.exe
+C:\Documents and Settings\jsilverstein\Desktop\q519\q519\obj\Debug\q519.pdb
+C:\Documents and Settings\jsilverstein\Desktop\q519\q519\bin\Debug\q519.exe
+C:\Documents and Settings\jsilverstein\Desktop\q519\q519\bin\Debug\q519.pdb
+C:\Documents and Settings\jsilverstein\Desktop\q519\q519\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jsilverstein\Desktop\q519\q519\obj\Debug\q519.Properties.Resources.resources
+C:\Documents and Settings\jsilverstein\Desktop\q519\q519\obj\Debug\q519.q519.resources
+C:\Documents and Settings\jsilverstein\Desktop\q519\q519\obj\Debug\q519.csproj.GenerateResource.Cache

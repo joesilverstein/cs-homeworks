@@ -1,0 +1,16 @@
+C:\Documents and Settings\jsilverstein\Desktop\q512\q512\bin\Debug\q512.exe
+C:\Documents and Settings\jsilverstein\Desktop\q512\q512\bin\Debug\q512.pdb
+C:\Documents and Settings\jsilverstein\Desktop\q512\q512\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jsilverstein\Desktop\q512\q512\obj\Debug\q512.Properties.Resources.resources
+C:\Documents and Settings\jsilverstein\Desktop\q512\q512\obj\Debug\q512.csproj.GenerateResource.Cache
+C:\Documents and Settings\jsilverstein\Desktop\q512\q512\obj\Debug\q512.exe
+C:\Documents and Settings\jsilverstein\Desktop\q512\q512\obj\Debug\q512.pdb
+C:\Documents and Settings\jsilverstein\Desktop\q512\q512\obj\Debug\q512.q512.resources
+G:\q512\q512\obj\Debug\q512.exe
+G:\q512\q512\obj\Debug\q512.pdb
+G:\q512\q512\bin\Debug\q512.exe
+G:\q512\q512\bin\Debug\q512.pdb
+G:\q512\q512\obj\Debug\ResolveAssemblyReference.cache
+G:\q512\q512\obj\Debug\q512.q512.resources
+G:\q512\q512\obj\Debug\q512.Properties.Resources.resources
+G:\q512\q512\obj\Debug\q512.csproj.GenerateResource.Cache
