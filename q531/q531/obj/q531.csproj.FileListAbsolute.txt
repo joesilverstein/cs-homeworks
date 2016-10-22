@@ -1,0 +1,8 @@
+C:\Users\Joe\Documents\Visual Studio 2005\Projects\q531\q531\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Joe\Documents\Visual Studio 2005\Projects\q531\q531\obj\Debug\q531.Properties.Resources.resources
+C:\Users\Joe\Documents\Visual Studio 2005\Projects\q531\q531\obj\Debug\q531.q531.resources
+C:\Users\Joe\Documents\Visual Studio 2005\Projects\q531\q531\obj\Debug\q531.csproj.GenerateResource.Cache
+C:\Users\Joe\Documents\Visual Studio 2005\Projects\q531\q531\bin\Debug\q531.exe
+C:\Users\Joe\Documents\Visual Studio 2005\Projects\q531\q531\bin\Debug\q531.pdb
+C:\Users\Joe\Documents\Visual Studio 2005\Projects\q531\q531\obj\Debug\q531.exe
+C:\Users\Joe\Documents\Visual Studio 2005\Projects\q531\q531\obj\Debug\q531.pdb
