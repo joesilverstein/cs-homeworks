@@ -1,0 +1,8 @@
+C:\Documents and Settings\jsilverstein\Desktop\q414\q414\bin\Debug\q414.exe
+C:\Documents and Settings\jsilverstein\Desktop\q414\q414\bin\Debug\q414.pdb
+C:\Documents and Settings\jsilverstein\Desktop\q414\q414\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\jsilverstein\Desktop\q414\q414\obj\Debug\q414.Form1.resources
+C:\Documents and Settings\jsilverstein\Desktop\q414\q414\obj\Debug\q414.Properties.Resources.resources
+C:\Documents and Settings\jsilverstein\Desktop\q414\q414\obj\Debug\q414.csproj.GenerateResource.Cache
+C:\Documents and Settings\jsilverstein\Desktop\q414\q414\obj\Debug\q414.exe
+C:\Documents and Settings\jsilverstein\Desktop\q414\q414\obj\Debug\q414.pdb
